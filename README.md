@@ -18,8 +18,8 @@ Every project is an opportunity to grow and improve — and I’m always excited
 
 📫 Contact,
 
-    💼 LinkedIn: WIP,
-    📧 Email : WIP,
+    💼 LinkedIn: www.linkedin.com/in/leonjerineck
+    📧 Email : leonjerineck@gmail.com
 
 
 ---
