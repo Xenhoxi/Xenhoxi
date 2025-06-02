@@ -13,9 +13,7 @@ Every project is an opportunity to grow and improve — and I’m always excited
 
 📊 GitHub Stats,
 ---
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Xenhoxi&show_icons=true&include_all_commits=true&count_private=true&theme=dracula)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xenhoxi&layout=compact&theme=dracula)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Xenhoxi&show_icons=true&include_all_commits=true&count_private=true&theme=dracula) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xenhoxi&layout=compact&theme=dracula)
 
 ---
 
